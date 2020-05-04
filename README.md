@@ -1,2 +1,2 @@
 # colored_beam
- this git just contains the shell bem, in defferent colours, under the gif format
+This git just contains the shell beam, in different colours. All of them are under the gif format.
